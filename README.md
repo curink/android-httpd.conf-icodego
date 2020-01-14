@@ -5,4 +5,4 @@ mod web server
 
 # my.cnf
 
-mengaktifkan engin innodb dan menjadi 
+mengaktifkan engin innodb dan menjadi default
