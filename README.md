@@ -5,4 +5,4 @@ mod web server
 
 # my.cnf
 
-mengaktifkan 
+mengaktifkan innodb
